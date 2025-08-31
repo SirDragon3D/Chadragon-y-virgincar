@@ -322,3 +322,43 @@ io.netty.channel.StacklessClosedChannelException: null
 [02:20:18] [Server thread/INFO]: 4milcar left the game
 [02:20:25] [Server thread/INFO]: 4milcar[/172.30.131.166:57078] logged in with entity id 12563 at (915.7685402941581, 55.0, -165.306829253333)
 [02:20:25] [Server thread/INFO]: 4milcar joined the game
+[02:21:14] [Server thread/INFO]: 4milcar lost connection: Disconnected
+[02:21:14] [Server thread/INFO]: 4milcar left the game
+[02:21:22] [Server thread/INFO]: 4milcar[/172.30.131.166:57094] logged in with entity id 12673 at (915.7685402941581, 55.0, -165.306829253333)
+[02:21:22] [Server thread/INFO]: 4milcar joined the game
+[02:22:01] [Server thread/INFO]: 4milcar lost connection: Disconnected
+[02:22:01] [Server thread/INFO]: 4milcar left the game
+[02:22:08] [Server thread/INFO]: 4milcar[/172.30.131.166:57113] logged in with entity id 12749 at (916.098241430118, 55.0, -164.5463252287489)
+[02:22:08] [Server thread/INFO]: 4milcar joined the game
+[02:22:45] [Server thread/INFO]: [Not Secure] <4milcar> XD?
+[02:23:01] [Server thread/INFO]: 4milcar lost connection: Disconnected
+[02:23:01] [Server thread/INFO]: 4milcar left the game
+[02:23:07] [Server thread/INFO]: 4milcar[/172.30.131.166:57128] logged in with entity id 12854 at (921.2737594618924, 69.0, -169.92484787549805)
+[02:23:07] [Server thread/INFO]: 4milcar joined the game
+[02:23:26] [Server thread/INFO]: 4milcar lost connection: Disconnected
+[02:23:26] [Server thread/INFO]: 4milcar left the game
+[02:23:42] [Server thread/INFO]: 4milcar[/172.30.131.166:57148] logged in with entity id 12900 at (925.0540106973554, 70.0, -167.56700110723165)
+[02:23:43] [Server thread/INFO]: 4milcar joined the game
+[02:23:52] [Server thread/INFO]: 4milcar lost connection: Disconnected
+[02:23:52] [Server thread/INFO]: 4milcar left the game
+[02:24:09] [Server thread/INFO]: 4milcar[/172.30.131.166:57161] logged in with entity id 12957 at (924.4127670433992, 70.0, -167.54980106003495)
+[02:24:09] [Server thread/INFO]: 4milcar joined the game
+[02:24:25] [Server thread/INFO]: 4milcar lost connection: Disconnected
+[02:24:25] [Server thread/INFO]: 4milcar left the game
+[02:24:34] [Server thread/INFO]: 4milcar[/172.30.131.166:57176] logged in with entity id 13023 at (927.1717039623366, 69.0, -167.41348370141873)
+[02:24:34] [Server thread/INFO]: 4milcar joined the game
+[02:24:46] [Server thread/INFO]: 4milcar lost connection: Disconnected
+[02:24:46] [Server thread/INFO]: 4milcar left the game
+[02:25:56] [Server thread/INFO]: SirDragon3d lost connection: Disconnected
+[02:25:56] [Server thread/INFO]: SirDragon3d left the game
+[02:26:03] [Server thread/INFO]: Stopping the server
+[02:26:03] [Server thread/INFO]: Stopping server
+[02:26:03] [Server thread/INFO]: Saving players
+[02:26:03] [Server thread/INFO]: Saving worlds
+[02:26:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:26:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:26:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:26:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:26:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:26:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:26:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
